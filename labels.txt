@@ -1,0 +1,10 @@
+0 Call Me
+1 Good Luck
+2 Hello
+3 I Love You
+4 Peace
+5 See Down
+6 See Up
+7 Super
+8 Thumbs Down
+9 Yes
